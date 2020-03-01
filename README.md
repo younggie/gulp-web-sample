@@ -22,7 +22,7 @@
 # github 업로드
     .gitignore  점검
 
-# 로컬웹서버 시행
+# 로컬웹서버 실행
  > yarn server
 
 # 사용자정의 클래스 추가
