@@ -1,7 +1,7 @@
 # gulp-web-sample
 
-yarn init
-yarn add gulp-cli -g
+- yarn init
+- yarn add gulp-cli -g
 yarn add gulp -D
 gulpfile.babel.js  생성
 .babelrc 생성
@@ -13,8 +13,10 @@ yarn add @fullhuman/postcss-purgecss -D
 
 
 yarn add tailwindcss gulp-autoprefixer  gulp-gh-pages  gulp-postcss  gulp-rename gulp-csso
-#package.json  에  scripts 추가
-#gulpfile.babel.js  편집
+
+# package.json  에  scripts 추가
+
+# gulpfile.babel.js  편집
 
 
 # github 업로드
